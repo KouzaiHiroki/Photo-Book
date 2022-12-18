@@ -27,14 +27,11 @@ html {
     margin-bottom: 10px;
   }
 
-  header {
-    margin-top: 60px;
-  }
-
   .site-title {
     width: 160px;
     line-height: 0;
     margin-bottom: 15px;
+    margin-top: 60px;
   }
 
   .site-title a{
