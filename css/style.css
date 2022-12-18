@@ -26,3 +26,19 @@ html {
     font-weight: bold;
     margin-bottom: 10px;
   }
+
+  header {
+    margin-top: 60px;
+  }
+
+  .site-title {
+    width: 160px;
+    line-height: 1px;
+    margin-bottom: 15px;
+  }
+
+  .site-title a{
+    display:block;
+  }
+
+  
