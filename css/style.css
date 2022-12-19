@@ -27,7 +27,7 @@ html {
     margin-bottom: 10px;
   }
 
-  .site-titel {
+  header .site-titel {
     width: 160px;
     line-height: 0;
     margin-bottom: 15px;
