@@ -34,7 +34,7 @@ html {
     margin-top: 60px;
   }
 
-  .site-title a{
+  header .site-title a{
     display:block;
   }
 
